@@ -1,0 +1,15 @@
+body{
+text-align:center;
+}
+
+h1{
+font-size:60px;
+font-family: 'Dancing Script', cursive;
+text-decoration:underline;
+}
+
+img{
+height:500px;
+width:250px;
+background-color: seashell;
+}
